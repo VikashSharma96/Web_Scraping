@@ -123,7 +123,7 @@ jj = json.loads(open("vk.json","r").read())
 get_movie_list_details(jj)
 
 
-# w = open("sale.json","r").read()
+# w = open("Data.json","r").read()
 # baa = json.loads((w))
 # ba = list(baa.keys())
 # b = []
